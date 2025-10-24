@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/shadab/NetBeansProjects/mvcframework/src/java/controller/FrontController.java</file>
+            <file>file:/home/shadab/NetBeansProjects/mvcframework/web/WEB-INF/web.xml</file>
+            <file>file:/home/shadab/NetBeansProjects/mvcframework/web/WEB-INF/view/Welcome.jsp</file>
+            <file>file:/home/shadab/NetBeansProjects/mvcframework/web/index.jsp</file>
+            <file>file:/home/shadab/NetBeansProjects/mvcframework/src/java/model/LoginModel.java</file>
+            <file>file:/home/shadab/NetBeansProjects/mvcframework/src/java/controller/info.properties</file>
+            <file>file:/home/shadab/NetBeansProjects/mvcframework/web/WEB-INF/view/afterLogin.jsp</file>
+            <file>file:/home/shadab/NetBeansProjects/mvcframework/src/java/model/Model.java</file>
+            <file>file:/home/shadab/NetBeansProjects/mvcframework/src/java/model/RegistrationModel.java</file>
+            <file>file:/home/shadab/NetBeansProjects/mvcframework/src/java/model/Check.java</file>
+        </group>
+    </open-files>
+</project-private>
